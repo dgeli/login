@@ -3,7 +3,7 @@
 Login example using Firebase as backend and token handling.
 
 
-## Configuración de Firebase
+## Firebase configuration
 - Go to https://firebase.google.com/ and create a new project.
 - Open the project and go to Authentication / Sign-in method and enable the Email and password option as the provider.
 - Go to https://firebase.google.com/docs/reference/rest/auth#section-create-email-password where the Rest services for Firebase authentication are located.
