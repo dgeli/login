@@ -29,11 +29,6 @@ export class LoginComponent implements OnInit {
   login(loginForm: NgForm) {
     if (loginForm.invalid) { return; }
 
-   /* Swal.fire(
-      'Espere por favor',
-    );
-    Swal.showLoading();*/
-
     Swal.fire({
       allowOutsideClick: false,
       type: 'info',
